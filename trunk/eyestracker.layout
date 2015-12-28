@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.c" open="1" top="1" tabpos="0">
+		<Cursor position="316" topLine="0" />
+	</File>
+	<File name="ui-context.c" open="0" top="0" tabpos="3">
+		<Cursor position="591" topLine="0" />
+	</File>
+	<File name="ui-context.h" open="0" top="0" tabpos="2">
+		<Cursor position="591" topLine="0" />
+	</File>
+	<File name="ui-cvimage.c" open="0" top="0" tabpos="9">
+		<Cursor position="590" topLine="0" />
+	</File>
+	<File name="ui-cvimage.h" open="0" top="0" tabpos="8">
+		<Cursor position="590" topLine="0" />
+	</File>
+	<File name="ui-label.c" open="0" top="0" tabpos="10">
+		<Cursor position="590" topLine="0" />
+	</File>
+	<File name="ui-label.h" open="0" top="0" tabpos="8">
+		<Cursor position="590" topLine="0" />
+	</File>
+	<File name="ui-slider.c" open="0" top="0" tabpos="7">
+		<Cursor position="591" topLine="0" />
+	</File>
+	<File name="ui-slider.h" open="0" top="0" tabpos="6">
+		<Cursor position="591" topLine="0" />
+	</File>
+	<File name="ui-toggle.c" open="0" top="0" tabpos="9">
+		<Cursor position="590" topLine="0" />
+	</File>
+	<File name="ui-toggle.h" open="0" top="0" tabpos="8">
+		<Cursor position="591" topLine="0" />
+	</File>
+	<File name="ui-webcam.c" open="0" top="0" tabpos="10">
+		<Cursor position="590" topLine="0" />
+	</File>
+	<File name="ui-webcam.h" open="0" top="0" tabpos="6">
+		<Cursor position="590" topLine="0" />
+	</File>
+	<File name="ui-widget.c" open="0" top="0" tabpos="5">
+		<Cursor position="591" topLine="0" />
+	</File>
+	<File name="ui-widget.h" open="0" top="0" tabpos="4">
+		<Cursor position="591" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

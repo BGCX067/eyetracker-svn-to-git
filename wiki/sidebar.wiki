@@ -1,0 +1,5 @@
+=== Navigate ===
+  * [main Main Page]
+  * [dyi Building the Hardware]
+  * [todo To-Do List]
+  * [faq Frequently Asked Questions]
